@@ -1,0 +1,37 @@
+{
+  "name": "unzip-sync",
+  "version": "0.0.1",
+  "description": "Sync Unzip cross-platform streaming API compatible with fstream and fs.ReadStream",
+  "author": {
+    "name": "Phil Xia",
+    "email": "phil.xia@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "philxia",
+      "email": "phil.xia@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philxia/node-unzip-sync.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fibers": "^1.0.15",
+    "unzip": "^0.1.11",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "unzip",
+    "sync",
+    "extract"
+  ],
+  "readme": "ERROR: No README data found!"
+}
